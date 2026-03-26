@@ -1,0 +1,37 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# native build artefacts
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro bundler
+.metro-health-check*
+
+# environment secrets — NEVER commit these
+.env
+.env.*
+!.env.example
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# editors
+.vscode/
+.idea/
+
+# logs
+*.log
+npm-debug.log*
+.claude/
+.specify/
