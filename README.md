@@ -1,6 +1,6 @@
 # Smart Recipe Planner
 
-## Setup
+## To test locally
 
 1. Clone the repo and install dependencies:
 ```bash
@@ -21,3 +21,12 @@ npx expo start
 ```
 
 4. Scan the QR code with Expo Go on your iOS or Android device.
+
+## Live/Deployment
+
+1. To try this app, you will need to download Expo Go for iOS or Android.
+
+2. Create an account
+
+3. Scan the QR code below with the camera app
+![QR Code](./deployed.svg)
